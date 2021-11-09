@@ -1,8 +1,8 @@
 ID
 Summary
+Severity
+Priority
 Steps to reproduce
 Result
 Expected Result
-Severity
-Priority
 
