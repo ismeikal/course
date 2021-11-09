@@ -5,5 +5,3 @@ Priority
 Steps to reproduce
 Result
 Expected Result
-
-
