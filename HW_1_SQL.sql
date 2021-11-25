@@ -29,7 +29,7 @@ select * from students where created_on = '2021-03-26 00:00:00';
 select * from students where name like '%Анна%';
 
  --11. Вывести пользователей где в имени в конце есть 8
-select * from students where name like '%8%';
+select * from students where name like '%8';
 
  --12. Вывести пользователей где в имени в есть буква а
 select * from students where name like '%a%';
